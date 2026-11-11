@@ -1,138 +1,83 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-</head>
-<body>
-    <h1 align="center">Hi 👋, I'm Ali Yasser Ali</h1>
-<h3 align="center">Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Ali Yasser Ali</h1>
 
-<img align="right" src="image.gif" width = 250px/>
+<h3 align="center">Backend Developer | Computer Science Graduate</h3>
 
-- :school: I am a `Computer Science Fresh Graduate` from the Faculty of  Science at Cairo University
-- 🌱 I’m currently studying android
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Building+RESTful+APIs;Always+Learning+New+Technologies" />
+</p>
 
-- 📫 How to reach me **ay6516169@gmail.com**
+<p align="center">
+  <img src="image.gif" width="250" alt="Coding animation" />
+</p>
 
-- :thinking: I’m currently open for a new `job opportunity`
+---
 
-- :nerd_face: Always `learning new things`
+### 👨‍💻 About Me
 
-## 📩 Connect with me
+- 🎓 Computer Science Graduate from Faculty of Science, Cairo University.
+- 💻 Interested in Backend Development and API Development.
+- 🚀 Working with .NET and C#.
+- 📱 Have experience with Android Development.
+- 🌱 Always learning new technologies and improving my skills.
+- 💼 Open to new job opportunities.
+- 📫 Reach me at: **ay6516169@gmail.com**
+
+---
+
+### 🤝 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/ali-yasser-643714269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-yasser-643714269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/13alkh?mibextid=kfxxjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/13alkh?mibextid=kfxxjd" height="30" width="40" /></a>
-</p>
-
-## 🛠 Programming languages
-<p align="left"> 
-	 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
+  <a href="https://www.linkedin.com/in/ali-yasser-643714269/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    /> </a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-	<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-</p>
-
-## 🛠 Software & Databases
-<p align="start">
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a><a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
+  <a href="mailto:ay6516169@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
 </p>
 
-## 🛠 Tools
-<p align="start">
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/475654/github-color.svg"
-      alt="github"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-      alt="androidstudio"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-      alt="vscode"
-      width="40"
-      height="40"
-    />
-  </a>
+---
 
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,kotlin,js,html,css" />
 </p>
 
+### ⚙️ Backend & Frameworks
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,react,reactnative,firebase" />
+</p>
 
+### 🗄️ Databases
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
-## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aliyasser&theme=tokyonight_duo" alt="aliyasser" /></p>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="aliyasser's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aliyasser&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-<br/>
+### 🛠️ Tools & Development Environment
 
-  </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,vscode,visualstudio" />
+</p>
 
-</body>
-</html>
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliyasser&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyasser&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliyasser&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Always learning, always building, always improving.</i>
+</p>
